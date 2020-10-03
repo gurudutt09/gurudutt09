@@ -10,6 +10,8 @@
 - 🔭 I am currently seeking job in Data Science
 - 🌱 I learned Data Science and also got bunch of [certification](https://github.com/gurudutt09/Data-Science-courses-and-certificates) too.. and learning continues to advance my knowledge  
 - 👯 I’m looking to get job in Data Science Field and also to collaborate with other content creators
+- 🎓 Academics - B.Tech-IT and MBA-HR
+- 😊 Have Work experience of 3.5 years as system admin and IT Support
 - ⚡ Fun fact: I love photography and my many work exhibited in International Art Galleries 
 
 ## Connect with me:
