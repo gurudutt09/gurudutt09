@@ -2,8 +2,7 @@
 <p align="left"> 
   <img src="https://github.com/gurudutt09/gurudutt09/blob/main/40119015.gif" width=230"> 
 </p>
-<br />
-<br />
+
 
 ## I'm a Data science aspirant and expert in Data Analysis and Virtualization with Python!!
 
@@ -13,16 +12,12 @@
 - 👯 I’m looking to get job in Data Science Field and also to collaborate with other content creators
 - ⚡ Fun fact: I love photography and my many work exhibited in International Art Galleries 
 
-<br />
-### Connect with me:
-
+## Connect with me:
 [<img align="left" alt="Photography Guru Ji | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="guru-dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="photography_guru_ji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-### Languages and Tools:
-
+## Languages and Tools:
 [<img align="left" alt="python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="github" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="PS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][ps]
@@ -37,6 +32,6 @@
 [ps]: https://www.photoshop.com/en
 [ubuntu]: https://ubuntu.com/
 [pandas]: https://pandas.pydata.org/
-<br />
+
 
 
