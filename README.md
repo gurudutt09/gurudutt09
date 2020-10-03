@@ -1,6 +1,12 @@
 ### Hi there, I'm Guru 👋
+<p align="left"> 
+  <img src="https://github.com/gurudutt09/gurudutt09/blob/main/40119015.gif" width=230"> 
+</p>
+<br />
+<br />
 
 ## I'm a Data science aspirant and expert in Data Analysis and Virtualization with Python!!
+
 
 - 🔭 I am currently seeking job in Data Science
 - 🌱 I learned Data Science and also got bunch of [certification](https://github.com/gurudutt09/Data-Science-courses-and-certificates) too.. and learning continues to advance my knowledge  
@@ -30,3 +36,6 @@
 [ps]: https://www.photoshop.com/en
 [ubuntu]: https://ubuntu.com/
 [pandas]: https://pandas.pydata.org/
+<br />
+
+
