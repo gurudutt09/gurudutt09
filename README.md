@@ -13,13 +13,14 @@
 - 👯 I’m looking to get job in Data Science Field and also to collaborate with other content creators
 - ⚡ Fun fact: I love photography and my many work exhibited in International Art Galleries 
 
+<br />
 ### Connect with me:
 
 [<img align="left" alt="Photography Guru Ji | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="guru-dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="photography_guru_ji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
