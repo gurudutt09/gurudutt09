@@ -17,6 +17,8 @@
 [<img align="left" alt="guru-dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="photography_guru_ji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ## Languages and Tools:
 [<img align="left" alt="python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="github" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]
