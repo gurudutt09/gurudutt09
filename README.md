@@ -4,7 +4,7 @@
 </p>
 
 
-## I'm Data science aspirant and expert in Data Analysis and Virtualization with Python!!
+## I'm Data Science aspirant and expert in Data Analysis and Virtualization with Python!!
 
 
 - 🔭 I am currently seeking job in Data Science
